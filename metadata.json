@@ -1,0 +1,6 @@
+{
+  "name": "Daily Life Manager",
+  "description": "Complete daily routine, habit tracker, hydration, planner, focus timer, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
